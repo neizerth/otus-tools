@@ -1,0 +1,24 @@
+{
+	"name": "otus-tools",
+	"version": "1.0.0",
+	"description": "",
+	"homepage": "https://github.com/neizerth/otus-tools#readme",
+	"bugs": {
+		"url": "https://github.com/neizerth/otus-tools/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/neizerth/otus-tools.git"
+	},
+	"license": "ISC",
+	"author": "",
+	"type": "commonjs",
+	"main": "templatemo-628-lumen-script.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "live-server"
+	},
+	"devDependencies": {
+		"live-server": "^1.2.2"
+	}
+}
